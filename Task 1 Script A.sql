@@ -20,5 +20,3 @@ FROM
 WHERE
     cm.term = '&p_term' AND
     cm.weight >= '&p_min_weight';
-
-/
