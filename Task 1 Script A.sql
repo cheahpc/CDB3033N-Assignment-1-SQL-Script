@@ -1,3 +1,15 @@
+SPOOL 'Task 1 Script A Output.txt'
+
+SET ECHO ON
+
+SET FEEDBACK ON
+
+SET LINESIZE 100
+
+SET PAGESIZE 200
+
+SET SERVEROUTPUT ON
+
 -- Accept user input for term and minimum weight
 ACCEPT p_term CHAR PROMPT 'Enter Term (e.g. f96): '
 
@@ -20,3 +32,5 @@ FROM
 WHERE
     cm.term = '&p_term' AND
     cm.weight >= '&p_min_weight';
+
+SPOOL OFF

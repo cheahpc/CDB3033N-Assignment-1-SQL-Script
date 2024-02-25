@@ -4,8 +4,21 @@ ALTER SESSION SET CONTAINER = PDB;
 
 ALTER DATABASE OPEN;
 
+SET ECHO OFF
+
 -- conn pdb_user/user123@localhost:1521/pdb
 -- conn pdb_user/user123@localhost:1521/gpdb
+-- sqlplus pdb_user/user123@localhost:1521/pdb
+-- sqlplus pdb_user/user123@localhost:1521/gpdb
+
+-- @Task_1_Script_B.sql
+-- @Task_1_Script_B.sql 'f96' '1031';
+-- @Task_1_Script_B.sql 'f96' '1032';
+-- @Task_1_Script_B.sql 'f96' '1515';
+-- @Task_1_Script_B.sql 'sp97' '1031';
+-- @Task_1_Script_B.sql 'sp97' '1032';
+-- @Task_1_Script_B.sql 'sp97' '1515';
+-- @Task_1_Script_B.sql 'sa99' '50';
 
 DESC subject;
 
