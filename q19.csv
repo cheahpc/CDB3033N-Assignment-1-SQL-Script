@@ -1,0 +1,49 @@
+SNO,STITLE,TERM,COMPNAME,MAXPOINTS,WEIGHT
+csc226,Introduction to Programming I,f96,exam1,100,30
+csc226,Introduction to Programming I,f96,quizzes,80,20
+csc226,Introduction to Programming I,f96,final,100,50
+csc226,Introduction to Programming I,f96,programs,400,40
+csc226,Introduction to Programming I,f96,midterm,100,20
+csc226,Introduction to Programming I,f96,final,100,40
+csc226,Introduction to Programming I,sp97,paper,100,50
+csc226,Introduction to Programming I,sp97,project,100,50
+csc227,Introduction to Programming II,f96,exam1,100,30
+csc227,Introduction to Programming II,f96,quizzes,80,20
+csc227,Introduction to Programming II,f96,final,100,50
+csc227,Introduction to Programming II,f96,programs,400,40
+csc227,Introduction to Programming II,f96,midterm,100,20
+csc227,Introduction to Programming II,f96,final,100,40
+csc227,Introduction to Programming II,sp97,paper,100,50
+csc227,Introduction to Programming II,sp97,project,100,50
+csc343,Assembly Programming,f96,exam1,100,30
+csc343,Assembly Programming,f96,quizzes,80,20
+csc343,Assembly Programming,f96,final,100,50
+csc343,Assembly Programming,f96,programs,400,40
+csc343,Assembly Programming,f96,midterm,100,20
+csc343,Assembly Programming,f96,final,100,40
+csc343,Assembly Programming,sp97,paper,100,50
+csc343,Assembly Programming,sp97,project,100,50
+csc481,Automata and Formal Languages,f96,exam1,100,30
+csc481,Automata and Formal Languages,f96,quizzes,80,20
+csc481,Automata and Formal Languages,f96,final,100,50
+csc481,Automata and Formal Languages,f96,programs,400,40
+csc481,Automata and Formal Languages,f96,midterm,100,20
+csc481,Automata and Formal Languages,f96,final,100,40
+csc481,Automata and Formal Languages,sp97,paper,100,50
+csc481,Automata and Formal Languages,sp97,project,100,50
+csc498,Introduction to Database Systems,f96,exam1,100,30
+csc498,Introduction to Database Systems,f96,quizzes,80,20
+csc498,Introduction to Database Systems,f96,final,100,50
+csc498,Introduction to Database Systems,f96,programs,400,40
+csc498,Introduction to Database Systems,f96,midterm,100,20
+csc498,Introduction to Database Systems,f96,final,100,40
+csc498,Introduction to Database Systems,sp97,paper,100,50
+csc498,Introduction to Database Systems,sp97,project,100,50
+csc880,Deductive Databases and Logic Programming,f96,exam1,100,30
+csc880,Deductive Databases and Logic Programming,f96,quizzes,80,20
+csc880,Deductive Databases and Logic Programming,f96,final,100,50
+csc880,Deductive Databases and Logic Programming,f96,programs,400,40
+csc880,Deductive Databases and Logic Programming,f96,midterm,100,20
+csc880,Deductive Databases and Logic Programming,f96,final,100,40
+csc880,Deductive Databases and Logic Programming,sp97,paper,100,50
+csc880,Deductive Databases and Logic Programming,sp97,project,100,50
